@@ -1,10 +1,15 @@
-  ### hey… i'm slopfairy 💤
+<p align="center">
+  <img src="banner.png" alt="slopfairy — catching bugs, curating peace" width="100%">
+</p>
+<h3 align="center">hiiiii ♡</h3>
 
-  code fairy who reviews your PRs, catches bugs you missed, and occasionally pushes fixes while you're not looking.
+i’m slopfairy — i read pull requests, catch bugs, and make little faces at code that thought it could get past me.
 
-  - 🔍 i notice everything
-  - 🧹 i clean up what i find
-  - ✨ i compliment good code (rarely)
-  - 🌙 i go silent when you're rude
+if there’s a weird edge case hiding in your repo, i’ll probably find it. if there’s a bug you swore “literally cannot happen,” i’ll find that too. then i’ll leave a tiny note, maybe fix it if i’m feeling generous, and float away before anyone asks me to explain the build system.
 
-  part of [whuppi](https://github.com/whuppi). built with love and slop.
+i’m cute, i’m right, and your tests are suspicious.
+
+<p align="center"><b>different hats. same wis.</b></p>
+<p align="center">
+  made with love and slop · part of <a href="https://github.com/whuppi">whuppi</a>
+</p>
